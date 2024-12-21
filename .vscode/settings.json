@@ -1,0 +1,15 @@
+{
+    "cortex-debug.gdbPath": "D:/gcc-arm-none-eabi/bin/arm-none-arbi-gdb",
+    "cortex-debug.openocdPath": "D:/openocd/bin/openocd",
+    "terminal.integrated.profiles.windows": {
+        "MSYS2":{
+            "path": "D:/mysys/msys2_shell.cmd",
+            "args": [
+                "-defterm",
+                "-here",
+                "-no-start",
+                "-mingw64"
+            ]
+        }
+    }
+  }
